@@ -1,0 +1,2 @@
+URL to installation manual:
+https://linuxtechlab.com/how-to-install-github-on-ubuntu-step-by-step/
