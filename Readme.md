@@ -9,3 +9,5 @@ What you'll learn
 - Understand how to use both the Jupyter Notebook and create .py files
 - Get an understanding of how to create GUIs in the Jupyter Notebook system!
 - Build a complete understanding of Python from the ground up!
+
+Course URL: https://www.udemy.com/course/complete-python-bootcamp/
